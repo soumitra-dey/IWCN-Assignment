@@ -11,12 +11,12 @@ This is a Notes taking app where you can add your daily notes and you can delete
 
 
 ## Functionality
-    - Add notes
-    - View notes
-    - Delete notes
+- Add notes
+- View notes
+- Delete notes
 
 
 ## Screenshots
 
-* ![App Screenshot](https://i.ibb.co/hRJRctz/Screenshot-from-2023-03-04-10-26-17.png)
+ ![App Screenshot](https://i.ibb.co/hRJRctz/Screenshot-from-2023-03-04-10-26-17.png)
 
