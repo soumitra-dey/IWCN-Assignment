@@ -10,9 +10,9 @@
 
 
 ## Functionality
-    - All columns are editable after edit it automatically post the data with position
+ - All columns are editable after edit it automatically post the data with position
 
 
 ## Screenshots
 
-* ![App Screenshot](https://i.ibb.co/F6t97jq/Screenshot-from-2023-03-04-10-44-08.png)
+ ![App Screenshot](https://i.ibb.co/F6t97jq/Screenshot-from-2023-03-04-10-44-08.png)
