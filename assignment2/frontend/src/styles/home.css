@@ -1,0 +1,55 @@
+#home {
+    background-color: #869c98;
+    min-height: 100vh;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 50px;
+    background-color: #869c98;
+    gap: 10px;
+    border: 2px solid;
+    width: fit-content;
+    margin: auto;
+}
+
+input {
+    width: 500px;
+    border-radius: 10px;
+    padding: 10px;
+    font-size: large;
+    background: #ffe8ccc9;
+}
+
+#container {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 20px;
+    width: 95%;
+    margin: auto;
+    overflow: auto;
+    height: 60vh;
+}
+
+.child {
+    padding: 10px;
+    border-radius: 10px;
+    word-wrap: break-word;
+    position: relative;
+    background-color: #ffe8ccc9;
+    width: 280px;
+    height: fit-content;
+}
+
+.delBtn{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+img{
+    cursor: pointer;
+}
