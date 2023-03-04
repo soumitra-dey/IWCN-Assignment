@@ -11,7 +11,7 @@ form {
     padding: 50px;
     background-color: #869c98;
     gap: 10px;
-    border: 2px solid;
+    /* border: 2px solid; */
     width: fit-content;
     margin: auto;
 }

@@ -26,7 +26,7 @@ export default function Home() {
 
     const getData = async () => {
         try {
-            let res = await fetch('http://localhost:8080')
+            let res = await fetch('https://bold-polarized-calliandra.glitch.me')
             res = await res.json();
             setNotes(res)
         } catch (e) {
@@ -37,7 +37,7 @@ export default function Home() {
     const postData = async () => {
         try {
 
-            let res = await fetch('http://localhost:8080', {
+            let res = await fetch('https://bold-polarized-calliandra.glitch.me', {
                 method: 'POST',
                 headers: {
                     'Content-Type': 'application/json'
@@ -55,7 +55,7 @@ export default function Home() {
     const handleDelete = async (id) => {
         try {
 
-            let res = await fetch('http://localhost:8080/' + id, {
+            let res = await fetch('https://bold-polarized-calliandra.glitch.me/' + id, {
                 method: 'DELETE'
             })
             res = await res.json();
